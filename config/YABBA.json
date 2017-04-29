@@ -1,0 +1,23 @@
+{
+  "tier": {
+    "item": {
+      "wood": 64,
+      "iron": 256,
+      "diamond": 4096,
+      "gold": 1024,
+      "infinity": 2000000000
+    }
+  },
+  "allowed_ore_prefixes": [
+    "ingot",
+    "block",
+    "nugget",
+    "ore",
+    "dust",
+    "gem"
+  ],
+  "crafting": {
+    "upgrade_stack_size": 16,
+    "barrel_easy_recipe": true
+  }
+}
