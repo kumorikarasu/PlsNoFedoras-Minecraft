@@ -45,3 +45,31 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Minecraft folders we do not care about
+asm/
+backups/
+crash-reports/
+downloads/
+enderio/
+journeymap/
+local/
+logs/
+modpack/
+mods/
+mputils/
+resourcepacks/
+resources/
+saves/
+TooManyGravesData/
+woot/
+.curseclient
+minecraftinstance.json
+minetweaker.log
+OpenComputersMod-*
+options.txt
+settings.rtg
+TimeUsage.txt
+usercache.json
+usernamecache.json
